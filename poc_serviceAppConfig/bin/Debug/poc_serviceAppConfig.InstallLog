@@ -208,3 +208,16 @@ Affected parameters are:
    logtoconsole = 
    logfile = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
    assemblypath = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe
+Installing assembly 'C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
+   assemblypath = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe
+Installing service 00ok...
+Service 00ok has been successfully installed.
+Creating EventLog source 00ok in log Application...
+Committing assembly 'C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
+   assemblypath = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe

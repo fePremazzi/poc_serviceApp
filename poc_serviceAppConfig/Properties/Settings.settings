@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="poc_serviceAppConfig.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServiceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00MyWinService</Value>
+    </Setting>
+    <Setting Name="BatFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\212697748\Desktop\startTest.bat</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -18,14 +18,14 @@ namespace poc_serviceAppConfig
         }
 
         private void btnCancel_Click(object sender, EventArgs e)
-        {
-            Settings.ServiceName = "00MyWinService";
+        {            
             this.Close();
         }
 
         private void btnOK_Click(object sender, EventArgs e)
         {
-            Settings.ServiceName = txtServiceName.Text.Trim();
+            Properties.Settings.Default.ServiceName = txtServiceName.Text.Trim();
+            Properties.Settings.Default.Save();
             this.Close();
         }
 

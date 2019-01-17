@@ -18,7 +18,7 @@ namespace poc_serviceAppConfig
             frInitialConfig confForm = new frInitialConfig();
             confForm.ShowDialog();
             serviceProcessInstaller1.Account = ServiceAccount.LocalSystem;
-            serviceInstaller1.ServiceName = Settings.ServiceName;
+            serviceInstaller1.ServiceName = Properties.Settings.Default.ServiceName;
             serviceInstaller1.StartType = ServiceStartMode.Automatic;            
         }
 
