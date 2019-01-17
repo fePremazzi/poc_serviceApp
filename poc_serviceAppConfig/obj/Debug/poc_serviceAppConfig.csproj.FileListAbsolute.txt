@@ -1,0 +1,11 @@
+C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\App.config
+C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe.config
+C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe
+C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.pdb
+C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\obj\Debug\poc_serviceAppConfig.ProjectInstaller.resources
+C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\obj\Debug\poc_serviceAppConfig.csproj.GenerateResource.cache
+C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\obj\Debug\poc_serviceAppConfig.csproj.CoreCompileInputs.cache
+C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\obj\Debug\poc_serviceAppConfig.exe
+C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\obj\Debug\poc_serviceAppConfig.pdb
+C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\obj\Debug\poc_serviceAppConfig.csprojAssemblyReference.cache
+C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\obj\Debug\poc_serviceAppConfig.frInitialConfig.resources
