@@ -31,7 +31,7 @@ namespace poc_serviceAppConfig
 
         private void txtServiceName_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (txtServiceName.Text.Trim().Length != 0)            
+            if (txtServiceName.Text.Trim().Length != 0 && txtBatPath.Text.Trim().Length != 0)            
                 btnOK.Enabled = true;            
             else            
                 btnOK.Enabled = false;            
