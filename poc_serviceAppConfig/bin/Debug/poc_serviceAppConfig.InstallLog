@@ -221,3 +221,42 @@ Affected parameters are:
    logtoconsole = 
    logfile = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
    assemblypath = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe
+Installing assembly 'C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
+   assemblypath = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe
+Installing service 00ok...
+Creating EventLog source 00ok in log Application...
+Rolling back assembly 'C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
+   assemblypath = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe
+Restoring event log to previous state for source 00ok.
+Installing assembly 'C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
+   assemblypath = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe
+Installing service 00xx...
+Service 00xx has been successfully installed.
+Creating EventLog source 00xx in log Application...
+Committing assembly 'C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
+   assemblypath = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe
+Installing assembly 'C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
+   assemblypath = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe
+Installing service 00xx...
+Service 00xx has been successfully installed.
+Creating EventLog source 00xx in log Application...
+Committing assembly 'C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
+   assemblypath = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe

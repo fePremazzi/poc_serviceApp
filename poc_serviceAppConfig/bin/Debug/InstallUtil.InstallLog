@@ -242,3 +242,48 @@ The file is located at C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_
 The Commit phase completed successfully.
 
 The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe assembly's progress.
+The file is located at C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe assembly's progress.
+The file is located at C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe assembly's progress.
+The file is located at C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe assembly's progress.
+The file is located at C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe assembly's progress.
+The file is located at C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe assembly's progress.
+The file is located at C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.

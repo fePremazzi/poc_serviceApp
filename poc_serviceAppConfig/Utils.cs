@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.Diagnostics;
 using System.Linq;
+using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,46 +11,21 @@ namespace poc_serviceAppConfig
 {
     public static class Utils
     {
-        public static void ReadAllSettings()
-        {
-            try
-            {
-                var appSettings = ConfigurationManager.AppSettings;
+        private static List<string> services = new List<string>();
 
-                if (appSettings.Count == 0)
-                {
-                    Console.WriteLine("AppSettings is empty.");
-                }
-                else
-                {
-                    foreach (var key in appSettings.AllKeys)
-                    {
-                        Console.WriteLine("Key: {0} Value: {1}", key, appSettings[key]);
-                    }
-                }
-            }
-            catch (ConfigurationErrorsException)
+        public static List<string> PopulateComboBox()
+        {
+            services.Add("None");
+            ServiceController[] scServices;
+            scServices = ServiceController.GetServices();
+            foreach (ServiceController sc in scServices)
             {
-                Console.WriteLine("Error reading app settings");
+                services.Add(sc.DisplayName);
             }
+
+            return services;
         }
 
-        public static string ReadSetting(string key)
-        {
-            try
-            {
-                var appSettings = ConfigurationManager.AppSettings;
-                string result = appSettings[key] ?? "Not Found";
-                Console.WriteLine("\n##########" + result + "\n");
-                return result;
-            }
-            catch (ConfigurationErrorsException)
-            {
-                Console.WriteLine("Error reading app settings");
-                //default
-                return "MyWinService";
-            }
-        }
 
         public static void ExecuteCmd(string command)
         {

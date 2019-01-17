@@ -19,7 +19,7 @@ namespace poc_serviceAppConfig
 
         protected override void OnStart(string[] args)
         {
-            Utils.ExecuteCmd(Properties.Settings.Default.BatFilePath);
+            //Utils.ExecuteCmd(Properties.Settings.Default.BatFilePath);
         }
 
         protected override void OnStop()

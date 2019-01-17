@@ -46,5 +46,17 @@ namespace poc_serviceAppConfig.Properties {
                 this["BatFilePath"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("MySQL")]
+        public string ServiceDependency {
+            get {
+                return ((string)(this["ServiceDependency"]));
+            }
+            set {
+                this["ServiceDependency"] = value;
+            }
+        }
     }
 }

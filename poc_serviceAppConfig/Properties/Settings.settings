@@ -8,5 +8,8 @@
     <Setting Name="BatFilePath" Type="System.String" Scope="User">
       <Value Profile="(Default)">C:\Users\212697748\Desktop\startTest.bat</Value>
     </Setting>
+    <Setting Name="ServiceDependency" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MySQL</Value>
+    </Setting>
   </Settings>
 </SettingsFile>
