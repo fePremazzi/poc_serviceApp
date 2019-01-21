@@ -21,14 +21,16 @@ namespace poc_serviceAppConfig
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
-            Properties.Settings.Default.ServiceName = "00MyWinService";
-            Properties.Settings.Default.Save();
+            throw new Exception("Cancelando operação");
+            //Properties.Settings.Default.ServiceName = "00MyWinService";
+            //Properties.Settings.Default.Save();
             this.Close();
         }
 
         private void btnOK_Click(object sender, EventArgs e)
         {
             Properties.Settings.Default.ServiceName = txtServiceName.Text.Trim();
+            Properties.Settings.Default.BatFilePath = txtBatPath.Text.Trim();
             Properties.Settings.Default.ServiceDependency = cbDependencies.Text.Trim();
             Properties.Settings.Default.Save();
             this.Close();

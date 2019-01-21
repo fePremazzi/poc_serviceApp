@@ -12,6 +12,8 @@ namespace poc_serviceAppConfig
     [RunInstaller(true)]
     public partial class ProjectInstaller : System.Configuration.Install.Installer
     {
+        string[] dependencies = new string[1];
+
         public ProjectInstaller()
         {
             InitializeComponent();
@@ -19,7 +21,9 @@ namespace poc_serviceAppConfig
             confForm.ShowDialog();
             serviceProcessInstaller1.Account = ServiceAccount.LocalSystem;
             serviceInstaller1.ServiceName = Properties.Settings.Default.ServiceName;
-            serviceInstaller1.StartType = ServiceStartMode.Automatic;            
+            serviceInstaller1.StartType = ServiceStartMode.Automatic;
+            //dependencies[0] = Properties.Settings.Default.ServiceDependency;
+            //serviceInstaller1.ServicesDependedOn = dependencies;
         }
 
         private void serviceInstaller1_AfterInstall(object sender, InstallEventArgs e)
