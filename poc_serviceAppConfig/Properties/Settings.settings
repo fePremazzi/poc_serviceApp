@@ -9,7 +9,10 @@
       <Value Profile="(Default)">C:\Users\212697748\Desktop\startTest.bat</Value>
     </Setting>
     <Setting Name="ServiceDependency" Type="System.String" Scope="User">
-      <Value Profile="(Default)">MySQL</Value>
+      <Value Profile="(Default)">MySQL55</Value>
+    </Setting>
+    <Setting Name="BatScript" Type="System.String" Scope="User">
+      <Value Profile="(Default)">java -jar "C:\visual-studio-workspace\uol-teste\target\cliente-rest-0.0.1-SNAPSHOT.jar"</Value>
     </Setting>
   </Settings>
 </SettingsFile>

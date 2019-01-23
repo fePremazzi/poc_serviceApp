@@ -416,3 +416,42 @@ Affected parameters are:
    logtoconsole = 
    logfile = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
    assemblypath = C:\Users\212697748\source\repos\poc_serviceAppConfig\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe
+Instalando o assembly 'c:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = c:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
+   assemblypath = c:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe
+Instalando o serviço 00ok...
+Serviço 00ok foi instalado com êxito.
+Criando a origem de EventLog 00ok no log Application...
+Confirmando o assembly 'c:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = c:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
+   assemblypath = c:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe
+Instalando o assembly 'c:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = c:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
+   assemblypath = c:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe
+Instalando o serviço 00fe...
+Serviço 00fe foi instalado com êxito.
+Criando a origem de EventLog 00fe no log Application...
+Confirmando o assembly 'c:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = c:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
+   assemblypath = c:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe
+Instalando o assembly 'C:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
+   assemblypath = C:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe
+Instalando o serviço 00vai...
+Serviço 00vai foi instalado com êxito.
+Criando a origem de EventLog 00vai no log Application...
+Confirmando o assembly 'C:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.InstallLog
+   assemblypath = C:\visual-studio-workspace\poc_serviceApp\poc_serviceAppConfig\bin\Debug\poc_serviceAppConfig.exe

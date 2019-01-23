@@ -23,6 +23,8 @@ namespace poc_serviceAppConfig
                 services.Add(sc.DisplayName);
             }
 
+            services.Sort();
+
             return services;
         }
 
